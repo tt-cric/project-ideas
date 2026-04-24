@@ -46,10 +46,14 @@ then it probably does.
 
 Do not pick projects based on popularity or technology trends.
 
-Pick a project that challenges something you cannot yet explain clearly.
+Pick a project from the [Project List](#project-list).
 
 Start small.  
 Go deeper gradually.
+
+## Project List
+
+1. [Simple HTTP Server](./projects/01-simple-http-server.md)
 
 ---
 
